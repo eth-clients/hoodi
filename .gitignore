@@ -1,0 +1,10 @@
+
+# temp files
+funding
+node_modules
+package-lock.json
+package.json
+
+# secrets
+generator-config/cl/mnemonics.yaml
+metadata/mnemonics.yaml
