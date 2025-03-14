@@ -65,13 +65,13 @@
       }
     },
     "depositContractAddress": "0x00000000219ab540356cBB839Cbe05303d7705Fa",
-    "eip2537TransitionTimestamp": "0x67e59118",
-    "eip2935TransitionTimestamp": "0x67e59118",
-    "eip6110TransitionTimestamp": "0x67e59118",
-    "eip7002TransitionTimestamp": "0x67e59118",
-    "eip7251TransitionTimestamp": "0x67e59118",
-    "eip7702TransitionTimestamp": "0x67e59118",
-    "eip7623TransitionTimestamp": "0x67e59118"
+    "eip2537TransitionTimestamp": "0x67e41118",
+    "eip2935TransitionTimestamp": "0x67e41118",
+    "eip6110TransitionTimestamp": "0x67e41118",
+    "eip7002TransitionTimestamp": "0x67e41118",
+    "eip7251TransitionTimestamp": "0x67e41118",
+    "eip7702TransitionTimestamp": "0x67e41118",
+    "eip7623TransitionTimestamp": "0x67e41118"
   },
   "genesis": {
     "seal": {
