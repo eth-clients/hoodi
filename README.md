@@ -12,7 +12,7 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
 
 * Status: launched (Mar/17, 2025)
 * Flag: `--hoodi`
-* Flavor: Permissionless (Proof-of-Stake), _to replace Goerli_
+* Flavor: Permissionless (Proof-of-Stake), _to replace Holešky_
 * Launch Date: **Mar/17, 2025, 12:10 UTC**
   * Linux Epoch time: 1742213400
   * LTS: Dec/2027, EOL: Dec/2028
