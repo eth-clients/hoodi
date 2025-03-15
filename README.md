@@ -16,8 +16,8 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
 * Launch Date: **Mar/17, 2025, 12:10 UTC**
   * Linux Epoch time: 1742213400
   * LTS: Dec/2027, EOL: Dec/2028
-* Execution Version: London
-* Consensus Version: Cancun
+* Execution Version: Cancun
+* Consensus Version: Deneb
 * Merge: At Genesis (`0`)
 * Shapella: At Genesis (`0`)
 * Dencun: At Genesis (`0`)
