@@ -38,12 +38,12 @@ jobs:
     #    skip_checkout: true
 
     - name: Upload transactions.txt artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         path: ./fund-distribution/transactions.txt
         name: transactions.txt
     - name: Upload summary.txt artifact
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         path: ./fund-distribution/summary.txt
         name: summary.txt
