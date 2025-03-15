@@ -29,7 +29,7 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
 * Genesis fork version: `0x10000910`
 * Genesis hash on EL: `0xbbe312868b376a3001692a646dd2d7d1e4406380dfd86b98aa8a34d1557c971b`
 * State root on EL: ``
-* Block root on CL: ``
+* Block root on CL: `0x376450cd7fb9f05ade82a7f88565ac57af449ac696b1a6ac5cc7dac7d467b7d6`
 * State root on CL: `0x2683ebc120f91f740c7bed4c866672d01e1ba51b4cc360297138465ee5df40f0`
 * Genesis validator root: `0x212f13fc4df078b6cb7db228f1c8307566dcecf900867401a92023d7ba99cb5f`
 * Deposit contract address: `0x00000000219ab540356cBB839Cbe05303d7705Fa`
