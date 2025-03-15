@@ -1,5 +1,6 @@
 
 # temp files
+generator-config
 funding
 node_modules
 package-lock.json
