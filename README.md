@@ -40,6 +40,7 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
 * Homepage: [hoodi.ethpandaops.io](https://hoodi.ethpandaops.io)
 * Staking Launchpad: [hoodi.launchpad.ethereum.org](https://hoodi.launchpad.ethereum.org)
 * Block Explorers
+  * [hoodi.cloud.blockscout.com](https://hoodi.cloud.blockscout.com/)
   * [hoodi.etherscan.io](https://hoodi.etherscan.io/)
   * [hoodi.beaconcha.in](https://hoodi.beaconcha.in/)
   * [light-hoodi.beaconcha.in](https://light-hoodi.beaconcha.in/)
