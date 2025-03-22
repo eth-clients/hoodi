@@ -44,6 +44,7 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
   * [hoodi.etherscan.io](https://hoodi.etherscan.io/)
   * [hoodi.beaconcha.in](https://hoodi.beaconcha.in/)
   * [light-hoodi.beaconcha.in](https://light-hoodi.beaconcha.in/)
+  * [hoodi.otterscan.io](https://hoodi.otterscan.io/)
 * Ethstats: [ethstats.hoodi.ethpandaops.io](https://ethstats.hoodi.ethpandaops.io)
 * Faucets:
   * [hoodi-faucet.pk910.de](https://hoodi-faucet.pk910.de/)
