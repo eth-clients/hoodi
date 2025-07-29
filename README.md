@@ -59,4 +59,5 @@ Selecting your relays can be an important decision for some stakers. You should 
   * [hoodi.otterscan.io](https://hoodi.otterscan.io/)
 * Ethstats: [ethstats.hoodi.ethpandaops.io](https://ethstats.hoodi.ethpandaops.io)
 * Faucets:
-  * [hoodi-faucet.pk910.de](https://hoodi-faucet.pk910.de/)
+  * [Chain Platform Faucet](https://faucet.chainplatform.co/faucets/ethereum-hoodi/)
+  * [PoW Faucet](https://hoodi-faucet.pk910.de/)
