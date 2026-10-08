@@ -32,6 +32,10 @@ Meet `--hoodi`, the second long-standing, merged-from-genesis, public Ethereum t
   * BPO 1 epoch: `52480`
   * BPO 2 time: `1762955544` - Wednesday, 12 November 2025 13:52:24
   * BPO 2 epoch: `54016`
+* Glamsterdam:
+  * Amsterdam time: `1793036568` - Monday, 26 October 2026 17:42:48
+  * Gloas epoch: `132352`
+  * Gloas fork version: `0x80000910`
 * Network ID: `560048`
 * Chain ID: `560048`
 * Genesis fork version: `0x10000910`
