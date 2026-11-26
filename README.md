@@ -69,3 +69,4 @@ Selecting your relays can be an important decision for some stakers. You should 
 * Ethstats: [ethstats.hoodi.ethpandaops.io](https://ethstats.hoodi.ethpandaops.io)
 * Faucets:
   * [hoodi-faucet.pk910.de](https://hoodi-faucet.pk910.de/)
+  * [faucets.dev](https://faucets.dev/faucet/hoodi)
